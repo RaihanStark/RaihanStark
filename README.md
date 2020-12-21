@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raihan Yudo Saputra</h1>
 <h3 align="center">An experienced full-stack web developer from Jakarta, Indonesia.</h3>
 
-<h1 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihanstark" alt="raihanstark" /></a> </h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihanstark" alt="raihanstark" /></a> </p>
 
 - 🔭 I’m currently working on [PT Ajita Indonesia](http://www.ajita.co.id/)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@raihansaputra](https://medium.com/@raihansaputra)
 
-- 💬 Ask me about **Full-stack Web Development**
+- 💬 Ask me about **Full-stack Web**
 
 - 📫 How to reach me **raihanyudosaputra30@gmail.com**
 
