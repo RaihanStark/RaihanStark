@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raihan Yudo Saputra</h1>
-<h3 align="center">An experienced full-stack web developer from Jakarta, Indonesia.</h3>
+<h3 align="center">An experienced full-stack web developer from Bekasi, Indonesia.</h3>
 
 
 <h1 align="center"> 
