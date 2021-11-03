@@ -6,14 +6,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanstark&show_icons=true&locale=en" alt="raihanstark" />
 </h1>
 
-- 🔭 I’m currently working on [PT Ajita Indonesia](http://www.ajita.co.id/)
+- 🔭 I’m currently looking for job opportunity
 - 🌱 I’m currently learning **React JS with Redux**
 - 👯 I’m looking to collaborate on [InstaliveCLI](https://github.com/RaihanStark/instalivecli)
-- 👨‍💻 All of my projects are available at [https://raihan.web.id/](https://raihan.web.id/)
+- 👨‍💻 All of my projects are available at [https://byraihan.com/](https://byraihan.com/)
 - 📝 I regularly write articles on [https://medium.com/@raihansaputra](https://medium.com/@raihansaputra)
 - 💬 Ask me about **Full-stack Web**
 - 📫 How to reach me **raihanyudosaputra30@gmail.com**
-- ⚡ Fun fact **I'm 19**
+- ⚡ Fun fact **I'm 20**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
