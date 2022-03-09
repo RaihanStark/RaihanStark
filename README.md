@@ -6,8 +6,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanstark&show_icons=true&locale=en" alt="raihanstark" />
 </h1>
 
-- 🔭 I’m currently working as **Junior Front-end Developer** at Elemes.id
-- 🌱 I’m currently learning **Vue JS with Nuxt**
+- 🔭 I’m currently open for work
+- 🌱 I’m currently learning **React JS**
 - 👯 I’m looking to collaborate on [InstaliveCLI](https://github.com/RaihanStark/instalivecli)
 - 👨‍💻 All of my projects are available at [https://byraihan.com/](https://byraihan.com/)
 - 📝 I regularly write articles on [https://medium.com/@raihansaputra](https://medium.com/@raihansaputra)
