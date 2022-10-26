@@ -7,13 +7,10 @@
 </h1>
 
 - 🔭 I’m currently open for work
-- 🌱 I’m currently learning **React JS**
-- 👯 I’m looking to collaborate on [InstaliveCLI](https://github.com/RaihanStark/instalivecli)
-- 👨‍💻 All of my projects are available at [https://byraihan.com/](https://byraihan.com/)
-- 📝 I regularly write articles on [https://medium.com/@raihansaputra](https://medium.com/@raihansaputra)
-- 💬 Ask me about **Full-stack Web**
+- 👨‍💻 Focusing my career as a Front-end Engineer
+- 💬 Ask me about **Web Development**
 - 📫 How to reach me **raihanyudosaputra30@gmail.com**
-- ⚡ Fun fact **I'm 20**
+- ⚡ Fun fact **I'm 21**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
