@@ -15,7 +15,7 @@
 <hr/>
 <h1 align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanstark&show_icons=true&locale=en" alt="raihanstark" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanstark&" alt="raihanstark" />
+  <img align="center" style="margin-top: 1rem" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanstark&" alt="raihanstark" />
 </h1>
 
 <h1 align="center">
