@@ -4,7 +4,7 @@
 - 🔭 I’m currently open for work
 - 👨‍💻 Focusing my career as a Front-end Engineer
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me **raihanyudosaputra30@gmail.com**
+- 📫 How to reach me **raihan@raihansoftware.co.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,8 +20,3 @@
 <h1 align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanstark&" alt="raihanstark" />
 </h1>
-
-<h1 align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/raihanstark?theme=dark&font=Fira%20Mono&ext=heatmap" alt="raihanstark" />
-</h1>
-
