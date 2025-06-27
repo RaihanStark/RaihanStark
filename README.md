@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raihan Yudo Saputra</h1>
 <h3 align="center">An experienced full-stack web developer from Bekasi, Indonesia.</h3>
 
-- 🔭 I’m currently open for work
 - 👨‍💻 Focusing my career as a Front-end Engineer
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **raihan@raihansoftware.co.id**
@@ -15,7 +14,7 @@
 <hr/>
 
 <h1 align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanstark&" alt="raihanstark" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanstark" alt="raihanstark" />
 </h1>
 
 <h1 align="center">
