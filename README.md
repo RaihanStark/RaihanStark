@@ -3,7 +3,7 @@
 
 - 👨‍💻 Focusing my career as a Front-end Engineer
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me **raihan@raihansoftware.co.id**
+- 📫 How to reach me **me@byraihan.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
