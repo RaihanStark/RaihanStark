@@ -56,12 +56,12 @@ If a tool I made saves you time, sponsoring even a little is what keeps the next
 ## 📊 GitHub in numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RaihanStark&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanStark&layout=compact&hide_border=true&theme=transparent" alt="top langs">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RaihanStark&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=EA4AAA&text_color=333333&icon_color=EA4AAA" alt="stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanStark&layout=compact&hide_border=true&bg_color=ffffff&title_color=EA4AAA&text_color=333333" alt="top langs">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanStark&hide_border=true&background=00000000" alt="streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanStark&hide_border=true&background=ffffff&ring=EA4AAA&fire=EA4AAA&currStreakLabel=EA4AAA" alt="streak">
 </p>
 
 ---
