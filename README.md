@@ -32,7 +32,6 @@ If a tool I made saves you time, sponsoring even a little is what keeps the next
 | Project | What it does | Stack |
 |---|---|---|
 | **[financy](https://github.com/RaihanStark/financy)** | Open-source zero-based budgeting (ZBB) for your desktop — every dollar gets a job, all on your own machine | Go |
-| **[timetracky](https://github.com/RaihanStark/timetracky)** | Manual time tracking & client reporting, built for people who bill by the hour | Go |
 | **[squadron](https://github.com/RaihanStark/squadron)** | A local cockpit for commanding Claude agents across your fleet of GitHub repos | JavaScript |
 
 > 85 repos and counting — these are just the ones I keep coming back to.
